@@ -1,0 +1,2 @@
+# java-tests
+This repository was created for those situations where I'm unsure of what I can and cannot do in Java. I write small programs to test certain features and, when successful, upload them here.
